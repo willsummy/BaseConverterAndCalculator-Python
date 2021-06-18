@@ -1,4 +1,4 @@
-Hello! Thanks for looking at my converter. I made this after the Java conver
+Hello! Thanks for looking at my converter. I made this after the Java converter
 I thought Python may be more functional than Java, but it still has the normal
 issues with accuracy.
 
